@@ -1,12 +1,12 @@
 # Chanisara R's Portfolio
 #### QA Automation Tester (Entry Level)
 
- - [About Me]()
- - [Resume]()
- - [Technical Skills]()
- - [Tools]()
- - [Courses]()
- - [Examples Of My Bootcamp Coding Project]()
+ - [About Me](https://github.com/Chanisara-chr/Chanisara-chr/tree/main?tab=readme-ov-file#about-me)
+ - [Resume](https://github.com/Chanisara-chr/Chanisara-chr/tree/main?tab=readme-ov-file#resume)
+ - [Technical Skills](https://github.com/Chanisara-chr/Chanisara-chr/tree/main?tab=readme-ov-file#technical-skills)
+ - [Tools](https://github.com/Chanisara-chr/Chanisara-chr/tree/main?tab=readme-ov-file#tools)
+ - [Courses](https://github.com/Chanisara-chr/Chanisara-chr/tree/main?tab=readme-ov-file#courses)
+ - [Examples Project](https://github.com/Chanisara-chr/Chanisara-chr/tree/main?tab=readme-ov-file#courses)
 
 ## About Me
 
@@ -35,12 +35,15 @@ You can view and download my Resume [here](https://drive.google.com/file/d/10XCX
 - Visual Code Studio
 
 ## Courses
-- Manual Test by STPB Digital (20 hours) - January 2024
-Developed comprehensive test plans, crafting test cases, test scripts, and test scenarios. Effectively recorded test results to ensure thorough quality assurance practices.
-- Automate Testing Web and UI by STPB Digital (18 hours) - April 2024
-Learned to automate software testing using Robot Framework with Selenium library. Gained proficiency in writing test scripts for efficient web and UI testing.
+- **Manual Test by STPB Digital - January 2024**
 
-## Examples Of My Bootcamp Coding Project
+	Developed comprehensive test plans, crafting test cases, test scripts, and test scenarios. Effectively recorded test results to ensure thorough quality assurance practices.
+
+- **Automate Testing Web and UI by STPB Digital - April 2024**
+
+	Learned to automate software testing using Robot Framework with Selenium library. Gained proficiency in writing test scripts for efficient web and UI testing.
+
+## Examples Project
 
 - [Automate Admin Webapp](https://github.com/Chanisara-chr/Automate-admin-webapp)
 - [Automate Register Feature](https://github.com/Chanisara-chr/Automate-register-feature)
