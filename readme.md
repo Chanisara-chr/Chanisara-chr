@@ -6,6 +6,7 @@
  - [Technical Skills](https://github.com/Chanisara-chr#technical-skills)
  - [Tools](https://github.com/Chanisara-chr#tools)
  - [Courses](https://github.com/Chanisara-chr#courses)
+ - [Example Document]()
  - [Examples Project](https://github.com/Chanisara-chr#examples-project)
  - [Social](https://github.com/Chanisara-chr#socials)
 
@@ -43,6 +44,9 @@ You can view and download my Resume [here](https://drive.google.com/file/d/10XCX
 - **Automate Testing Web and UI by STPB Digital - April 2024**
 
 	Learned to automate software testing using Robot Framework with Selenium library. Gained proficiency in writing test scripts for efficient web and UI testing.
+
+## Examples Document
+- [Test Cases examples for Register Page. (Google Sheet)](https://docs.google.com/spreadsheets/d/1Te_bC0ejZutKhPQGgFYGy7RaXNnNvZaUNrVMc2KYs8A/edit?usp=sharing)
 
 ## Examples Project
 
