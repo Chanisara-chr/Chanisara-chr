@@ -1,12 +1,13 @@
 # Chanisara R's Portfolio
 #### QA Automation Tester (Entry Level)
 
- - [About Me](https://github.com/Chanisara-chr/Chanisara-chr/tree/main?tab=readme-ov-file#about-me)
- - [Resume](https://github.com/Chanisara-chr/Chanisara-chr/tree/main?tab=readme-ov-file#resume)
- - [Technical Skills](https://github.com/Chanisara-chr/Chanisara-chr/tree/main?tab=readme-ov-file#technical-skills)
- - [Tools](https://github.com/Chanisara-chr/Chanisara-chr/tree/main?tab=readme-ov-file#tools)
- - [Courses](https://github.com/Chanisara-chr/Chanisara-chr/tree/main?tab=readme-ov-file#courses)
- - [Examples Project](https://github.com/Chanisara-chr/Chanisara-chr/tree/main?tab=readme-ov-file#courses)
+ - [About Me](https://github.com/Chanisara-chr#about-me)
+ - [Resume](https://github.com/Chanisara-chr#resume)
+ - [Technical Skills](https://github.com/Chanisara-chr#technical-skills)
+ - [Tools](https://github.com/Chanisara-chr#tools)
+ - [Courses](https://github.com/Chanisara-chr#courses)
+ - [Examples Project](https://github.com/Chanisara-chr#examples-project)
+ - [Social](https://github.com/Chanisara-chr#socials)
 
 ## About Me
 
