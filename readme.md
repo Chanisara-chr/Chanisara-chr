@@ -27,7 +27,7 @@ I started in digital marketing, using data to understand user behavior and impro
 
 ## Resume
 
-You can view and download my Resume [here](https://drive.google.com/file/d/10XCXGTQuZjBTh8d3QxIkVG-o3lTMbDqy/view?usp=sharing).
+You can view and download my Resume [here](https://drive.google.com/file/d/1O3qt9YuGTcniQ6SRVNmdOcsd9b7pXhO4/view?usp=drive_link).
 
 ## Technical Skills
 - Manual testing
