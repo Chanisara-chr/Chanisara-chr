@@ -7,7 +7,15 @@
  - [Tools](https://github.com/Chanisara-chr#tools)
  - [Courses](https://github.com/Chanisara-chr#courses)
  - [Example Document](https://github.com/Chanisara-chr#examples-document)
+	- [Test Cases examples for Register Page. (Google Sheet)](https://docs.google.com/spreadsheets/d/1Te_bC0ejZutKhPQGgFYGy7RaXNnNvZaUNrVMc2KYs8A/edit?usp=sharing)
  - [Examples Project](https://github.com/Chanisara-chr#examples-project)
+	- [Automate Admin Webapp](https://github.com/Chanisara-chr/Automate-admin-webapp)
+	- [Automate Register Feature](https://github.com/Chanisara-chr/Automate-register-feature)
+	- [Automate Login Feature](https://github.com/Chanisara-chr/Automate-login-feature)
+	- [Automate Web Element](https://github.com/Chanisara-chr/Automate-web-element)
+
+	-
+	-
  - [Social](https://github.com/Chanisara-chr#socials)
 
 ## About Me
