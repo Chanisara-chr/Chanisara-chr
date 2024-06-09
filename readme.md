@@ -36,7 +36,7 @@ You can view and download my Resume [here](https://drive.google.com/file/d/1O3qt
 	- Robot Framework
 - SQL databases (Basic)
 - Python (Basic)
-- ![Codewars](https://github.r2v.ch/codewars?user=Chanisara-chr)
+![Codewars](https://github.r2v.ch/codewars?user=Chanisara-chr&stroke=green)
 
 ## Tools
 - GitHub
